@@ -1,5 +1,5 @@
 # student-management-system 
-A simple Python project to manage student records.
+Developed a Python-based application to manage student records using file handling.
 
 ## Features
 - add students
@@ -7,6 +7,6 @@ A simple Python project to manage student records.
 - delete student
 - exit
 
-- ## Tech Used
+- ## Technologies Used:
 - Python
 - File Handling
