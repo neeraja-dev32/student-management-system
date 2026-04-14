@@ -12,4 +12,4 @@ Developed a Python-based application to manage student records using file handli
 - File Handling
   
 ## Output
-![Output(Screenshot.png)
+![Output(Screenshot(3).png)
