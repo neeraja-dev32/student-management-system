@@ -10,3 +10,6 @@ Developed a Python-based application to manage student records using file handli
 - ## Technologies Used:
 - Python
 - File Handling
+  
+## Output
+![Output](Screenshot (3).png)
